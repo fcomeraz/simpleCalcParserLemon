@@ -1,0 +1,10 @@
+lemon
+simpleCalc
+*.o
+*.out
+simpleCalcLexer.cpp
+simpleCalcLexer.h
+Symbols.h
+simpleCalcParser.cpp
+simpleCalc.h
+simpleCalc.c
